@@ -2,7 +2,7 @@ Smart-Autocorrect-System
 
 This is a Flask-based AI Autocorrect System that accepts full sentence input and provides corrected output along with top-3 suggestions per word (if applicable). It uses Python’s difflib library to match misspelled words with a custom dictionary containing 2000–2500 relevant words (English + Programming + Tech domains).
 
-Project Structure:
+Project File Structure:
 
 SmartAutocorrect/
     app.py                    
